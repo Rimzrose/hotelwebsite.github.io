@@ -1,0 +1,23 @@
+.menu{
+list-style:none;text-decoration:none;display:inline;
+position:absolute;font-size:15px;border:none;font-style:calibri;}
+.hover{
+color:red;background-color:black;border:none;}	
+.h{
+color:white;text-align:center;background-color:black;border:none;font-size:13px;font-family:cursive;float:left;margin-left:40px;}
+.red{
+width:1340px;height:50px;background-color:black;}
+.b{background-color:black;color:white;border:none;text-align:center;float:right;margin-left:50px;}
+.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border:9px solid white;
+}
+.imgi{
+    width:300px;height:150px;margin:50px;border:7px solid white;}
+.port{width:1340px;height:220px;background-color:#f0f8ff;}
+.i{float:right;}
+.l{float:left;}
+.w{word-spacing:130px;margin-left:50px;}
+	
